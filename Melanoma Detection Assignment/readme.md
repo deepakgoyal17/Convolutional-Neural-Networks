@@ -10,12 +10,23 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 The data set contains the following diseases:
 
 Actinic keratosis
+
 Basal cell carcinoma
+
 Dermatofibroma
+
 Melanoma
+
 Nevus
+
 Pigmented benign keratosis
+
 Seborrheic keratosis
+
 Squamous cell carcinoma
+
 Vascular lesion
+
+Conclusions:
+Model we have created is able to provide an accuracy of 88% on train and 79 % on validation data. Though we could increase the accuracy by adding more layers and neurons, doing dropouts and batch normilizations etc.
 
