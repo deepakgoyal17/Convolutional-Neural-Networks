@@ -32,3 +32,5 @@ Vascular lesion
 
 Model we have created is able to provide an accuracy of 88% on train and 79 % on validation data. Though we could increase the accuracy by adding more layers and neurons, doing dropouts and batch normilizations etc.
 
+Model was created using some of the agumentation techniques to increase the accuracy and avoid overfitting.
+
